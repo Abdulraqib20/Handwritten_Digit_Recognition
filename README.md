@@ -1,2 +1,1 @@
-# Handwritten_Digit_Recognition
- 
+A Simple Neural Network that recognizes the hand-written digits zero and one
